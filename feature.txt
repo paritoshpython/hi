@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 helo this is feature file
+=======
+sdsdsds sdsd
+>>>>>>> feature
