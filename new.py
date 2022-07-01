@@ -8,7 +8,7 @@ class Name:
         ok=self.name
         return ("ok:",ok)   
 
-
+d
 a=Name()
 
 class b(Name):
